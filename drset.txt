@@ -1,0 +1,91 @@
+Dr. Dr.Strange:
+	Karan Kumar
+	Aneesh Saripalli
+
+Dr. Dr.Loser
+	Ritika Shrivastava
+
+Dr. Dr.Dolittle	
+	Sandeep Namburi
+
+P 	Aneesh Saripalli
+	Male
+	Soccer
+	2001-08-16
+
+P  	Karan Kumar
+	Male
+	Cricket 
+	1999-05-12
+
+P  	Ritika Shrivastava
+	Female
+	Volleyball
+	1999-03-13
+
+P  	Sandeep Namburi
+	Male
+	Baseball
+	1998-04-06
+
+V Aneesh Saripalli	
+	150 lbs 
+	170 inches
+	United HealthCare
+	sprained ankle
+	Xanax
+
+V Aneesh Saripalli		
+	147 lbs
+	170 inches
+	United HealthCare
+	Swollen ankle
+	Medicine 2
+
+V Aneesh Saripalli	
+	149 lbs
+	170 inches
+	United Healthcare
+	Ankle Healed
+	NULL
+
+V Karan Kumar
+	140 lbs
+	165 inches
+	BlueCross Insurance
+	Twisted Wrist
+	Oxycodone
+
+V Karan Kumar
+	135 lbs
+	165 inches
+	BlueCross Insurance
+	Better Movement of Wrist
+	Hydrocodone
+
+V Ritika Shrivastava
+	100 lbs
+	150 inches
+	XYZ Insurance
+	Severe Headache with light fever
+	Ibuprofin
+
+	105 lbs
+	150 inches
+	XYZ Insurance
+	Light Headache with no fever
+	Aspirin
+
+V Sandeep Namburi
+	200 lbs
+	140 inches
+	United HealthCare
+	Heavy Breathing with Headache, Regular Cardio Exercise Recommended
+	Hydralazine
+
+V Sandeep Namburi
+	190 lbs
+	140 inches
+	United HealthCare
+	Breathing back to normal rates, Blood pressure normal
+	NULL 
